@@ -22,7 +22,7 @@
   },
   "include": [
     "src"
-  ],
+, "src/interface/.ts"  ],
   "exclude": [
     "dist",
     "node_modules",
